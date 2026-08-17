@@ -6,3 +6,4 @@ test_remap/
 val_remap/
 train_remap/
 /checkpoint_epoch_*
+output/

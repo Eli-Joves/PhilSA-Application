@@ -12,4 +12,8 @@
 
 # 17 August 2026
 - In the interest of time, I only ran 40 epochs for 1300~ mins of run time
+- Additionally, instead of going from 4 to 1024 channels leading to the bottleneck stage, I modified it to end at 512 instead.
 - Uploading to save the status of my model training
+- Successfully trained the model, validated, and chosen which iteration of the model to use for testing
+- Tested the model, computed for metrics
+- Plotted the 2-band output
