@@ -9,3 +9,7 @@
 - Tested model - Unfortunately, I ran the re-mapping code block multiple times, essentially removing all cloud shadows
 - Fixed it by recopying and remaking the remapped files
 - Leaving the code overnight to work for 45 epochs
+
+# 17 August 2026
+- In the interest of time, I only ran 40 epochs for 1300~ mins of run time
+- Uploading to save the status of my model training
