@@ -17,3 +17,7 @@
 - Successfully trained the model, validated, and chosen which iteration of the model to use for testing
 - Tested the model, computed for metrics
 - Plotted the 2-band output
+
+# 18 August 2026
+- Finished notebook notes and notations
+- Added visualizations of the metrics (bar plots and heatmaps)
