@@ -21,3 +21,5 @@
 # 18 August 2026
 - Finished notebook notes and notations
 - Added visualizations of the metrics (bar plots and heatmaps)
+- Oversight, Band 2 in output is 0-1. Guide says values must range from 0-100.
+- Proofreading markdowns.
