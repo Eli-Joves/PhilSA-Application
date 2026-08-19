@@ -7,3 +7,4 @@ val_remap/
 train_remap/
 /checkpoint_epoch_*
 !/checkpoint_epoch_30.pt
+.DS_Store
