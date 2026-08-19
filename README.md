@@ -1,3 +1,5 @@
+# To reproduce these results, it is imperative to use 
+
 # 15 August 2026
 - First Commit
 - Downloaded data
@@ -23,3 +25,7 @@
 - Added visualizations of the metrics (bar plots and heatmaps)
 - Oversight, Band 2 in output is 0-1. Guide says values must range from 0-100.
 - Proofreading markdowns.
+
+# 19 August 2026
+- More proofreading
+- Adding the 30th model to github, in case people need to use the model I utilized in my testing.
