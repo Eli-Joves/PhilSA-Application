@@ -1,4 +1,6 @@
-# To reproduce these results, it is imperative to use 
+To reproduce these results, a few libraries are needed to be installed. Attached below is the code that installs these libraries.
+
+```pip install numpy rasterio matplotlib seaborn torch torchvision pillow jupyter ipykernel```
 
 # 15 August 2026
 - First Commit
